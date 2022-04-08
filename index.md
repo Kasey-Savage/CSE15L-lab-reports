@@ -1,11 +1,10 @@
 **This is my index.md file.**
+
 *What's up!*
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
+# This
+## Is
+### Fun
 
 [Markdown Link](https://commonmark.org/help/)
 

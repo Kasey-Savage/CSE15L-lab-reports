@@ -1,5 +1,14 @@
-![First Picture](CSE15L-Lab1-Pic1.PNG)
+# Testing what it looks like
+The steps are as follows 
 
-[Lab Report 1](lab-report-1-week-2.html)
+1. 
 
-[Lab Report 1](https://kasey-savage.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+2.
+
+3.
+
+4.
+
+5.
+
+6. 

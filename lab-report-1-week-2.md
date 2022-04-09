@@ -18,9 +18,9 @@ Now for everyone, go find your [CSE15L course specific account](https://sdacs.uc
 
 Look for the account that is in the form of **cs15lsp22zzz** (The z is an actual letter but varies from account to account).
 
-Now you will go to Visual Studio Code and open up a new terminal by clicking on `Terminal` and then on `New Terminal`.
+Now you will go to Visual Studio Code and open up a new terminal by clicking on ```Terminal``` and then on ```New Terminal```.
 
-Now you will type `ssh cs15lsp22zzz@ieng6.ucsd.edu` (using your course specific account instead of the zzz). A message will then pop up.
+Now you will type ```ssh cs15lsp22zzz@ieng6.ucsd.edu``` (using your course specific account instead of the zzz). A message will then pop up.
 
 > Are you sure you want to continue connecting (yes/no)? 
 
@@ -29,3 +29,25 @@ Type yes and then you will be prompted to type your password. Do so and your ter
 ![Pic2](LabReport1Pic2.png)
 
 ## **Step 3) Running Some Commands**
+
+Here are some commands that you can try running in the terminal. 
+
+- ls
+
+- ls -a
+
+- cd
+
+- pwd
+
+- mkdir
+
+- touch
+
+- cat 
+
+- cp
+
+Here are some examples of how to call these commands and what the output should look like!
+
+![Pic3](LabReport1Pic3.PNG)

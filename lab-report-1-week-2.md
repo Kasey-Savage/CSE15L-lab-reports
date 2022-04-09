@@ -1,14 +1,31 @@
-# Testing what it looks like
-The steps are as follows 
+# Remote Access From Your Computer to ieng6
 
-1. 
+## **Step 1) Installing Visual Studio Code**
 
-2.
 
-3.
+Go to the [Visual Studio Code website](https://code.visualstudio.com/) and install Visual Studio Code for your operating system. Follow what the site and installer tell you to do. 
 
-4.
+Once it is setup open up Visual Studio Code and your screen should look like this. 
 
-5.
+![Pic1](LabReport1Pic1.PNG)
 
-6. 
+## **Step 2) Connecting Remotely**
+
+
+Before going any further if you are on a Windows device you will need to install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse).
+
+Now for everyone, go find your [CSE15L course specific account](https://sdacs.ucsd.edu/~icc/index.php).
+
+Look for the account that is in the form of **cs15lsp22zzz** (The z is an actual letter but varies from account to account).
+
+Now you will go to Visual Studio Code and open up a new terminal by clicking on `Terminal` and then on `New Terminal`.
+
+Now you will type `ssh cs15lsp22zzz@ieng6.ucsd.edu` (using your course specific account instead of the zzz). A message will then pop up.
+
+> Are you sure you want to continue connecting (yes/no)? 
+
+Type yes and then you will be prompted to type your password. Do so and your terminal should look something like this. 
+
+![Pic2](LabReport1Pic2.png)
+
+## **Step 3) Running Some Commands**

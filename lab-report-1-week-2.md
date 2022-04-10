@@ -3,7 +3,7 @@
 ## **Step 1) Installing Visual Studio Code**
 
 
-Go to the [Visual Studio Code website](https://code.visualstudio.com/) and install Visual Studio Code for your operating system. Follow what the site and installer tell you to do. 
+Go to the [Visual Studio Code website](https://code.visualstudio.com/) and install Visual Studio Code for your operating system. From there just follow what the site and installer tell you to do. 
 
 Once it is setup open up Visual Studio Code and your screen should look like this. 
 

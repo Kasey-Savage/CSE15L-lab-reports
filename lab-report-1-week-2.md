@@ -119,6 +119,7 @@ The key's randomart image is:
 |                 |
 +----[SHA256]-----+
 ```
+
 Now, if you are on Windows you must do this [extra step](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation) before going on to the next part. Similar to the step prior, you do not need to enter a passphrase, an empty one is good enough. 
 
 

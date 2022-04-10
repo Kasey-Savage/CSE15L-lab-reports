@@ -88,19 +88,27 @@ Are you tired of putting your passphrase in every time you want to login? In thi
 Make sure you are on your own account, not ieng6 and then type in `ssh-keygen`.
 
 The output should look something like this:
-```PS D:\CSE15L> ssh-keygen
+
+```
+PS D:\CSE15L> ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (C:\Users\Kasey Savage/.ssh/id_rsa): 
 ```
+
 Now you will hit enter:
+
 ```
 Enter passphrase (empty for no passphrase): 
 ```
+
 For this we will be just hitting enter since we do not need the passphrase to be super secure:
+
 ```
 Enter same passphrase again: 
 ```
+
 Hit enter once more:
+
 ```
 Your identification has been saved in C:\Users\Kasey Savage/.ssh/id_rsa.       
 Your public key has been saved in C:\Users\Kasey Savage/.ssh/id_rsa.pub.       
@@ -124,17 +132,21 @@ Now, if you are on Windows you must do this [extra step](https://docs.microsoft.
 
 
 Everyone will now login to ieng6 once more and type:
+
 ```
 mkdir .ssh
 ```
+
 Once this is done you can go ahead and log out of the server. 
 
 You should be back on your client server now. We will now use scp to copy the key that we were just given to the ieng6 server. 
 
 You will do this by typing:
+
 ```
 scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
 ```
+
 Here is an example of what my terminal looked liked (I am on Windows so it might look different for you). If your username has spaces then you must type it like how I did with the quotation marks! 
 
 ![Pic6](LabReport1Pic6.PNG)

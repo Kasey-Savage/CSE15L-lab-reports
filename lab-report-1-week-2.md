@@ -51,3 +51,17 @@ Here are some commands that you can try running in the terminal.
 Here are some examples of how to call these commands and what the output should look like!
 
 ![Pic3](LabReport1Pic3.PNG)
+## **Step 4) Moving Files With `scp`**
+Now we will be copying some files from our computer to ieng6. You can do this with many files on your computer, but for this we will be using a basic example just to show you how it works. 
+
+First of all you can copy this code bellow, put it into a directory of your choice, and then run it using `javac WhereAmI.java; java WhereAmI`
+```
+class WhereAmI {
+    public static void main(String[] args) {
+        System.out.println(System.getProperty("os.name"));
+        System.out.println(System.getProperty("user.name"));
+        System.out.println(System.getProperty("user.home"));
+        System.out.println(System.getProperty("user.dir"));
+    }
+}
+```

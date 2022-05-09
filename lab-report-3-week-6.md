@@ -1,4 +1,4 @@
-
+# Group Choice Options from Lab 5
 
 ## Streamlining ssh Configuration
 To make and create this file I just opened the .ssh folder in Visual Studio Code and added and edited the config file.

@@ -1,33 +1,8 @@
-**This is my index.md file.**
+# CSE 15L Lab Reports
+[Lab Report 1](lab-report-1-week-2.md)
 
-*What's up!*
+[Lab Report 2](lab-report-2-week-4.md)
 
-# This
-## Is
-### Fun
+[Lab Report 3](lab-report-3-week-6.md)
 
-[Markdown Link](https://commonmark.org/help/)
-
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAibijslaDUVnlPkKuDenD-exuhb_xeqkZg&usqp=CAU)
-
->This is a block 
->Hello
-
-Computer Parts
-- CPU
-- GPU
-- Shell
-
-Favorite Games
-1. Sea Of Thieves
-2. Halo
-3. COD BO3
-
----
-
-`This is CODE`
-
-```
-//This is actually code
-System.out.println("Hello World!")
-```
+[Lab Report 4](lab-report-4-week-8.md)
